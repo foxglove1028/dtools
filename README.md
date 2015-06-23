@@ -1,5 +1,6 @@
-#dtools [https://dtools.dragonrageseishi.com](https://dtools.dragonrageseishi.com)
-What is dTools? dTools is a set of three applications that are geared to help players and managers play DnD better and more organized.
+#dtools
+What is dTools?
+dTools is a set of three applications that are geared to help players and managers play DnD better and more organized. [http://dtools.dragonrageseishi.com](http://dtools.dragonrageseishi.com)
 
 ###The three programs are:
 
