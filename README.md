@@ -1,3 +1,4 @@
+![alt text](https://github.com/foxglove1028/dtools/logo.png "dTools")
 #dtools
 What is dTools?
 dTools is a set of three applications that are geared to help players and managers play DnD better and more organized. [http://dtools.dragonrageseishi.com](http://dtools.dragonrageseishi.com)
